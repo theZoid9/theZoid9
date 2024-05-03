@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/[YourGitHub]/[YourGitHub]/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+    <img src="https://raw.githubusercontent.com/theZoid9/theZoid9/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=theZoid9&theme=onedark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&card_width=818)](https://git.io/streak-stats)
