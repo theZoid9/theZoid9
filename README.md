@@ -2,8 +2,8 @@
 
 <blockquote>
         "Never forget who you are, the rest of the world will not. <br>
-         Wear it like armor, <br>
-         which can never be used against you."
+        Wear it like armor, <br>
+        which can never be used against you."
 </blockquote>
 
 
