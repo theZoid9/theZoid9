@@ -1,7 +1,7 @@
 
 
 <blockquote>
-        "Never forget who really are, the rest of the world will not. Wear it like armor, which can never be used to hurt you."
+        "Never forget who you are, the rest of the world will not. Wear it like armor, which can never be used to hurt you."
 </blockquote>
 
 
